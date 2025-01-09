@@ -1,1 +1,2 @@
-# HEartHealth-AI
+# HeartHealthAI
+Predicts heart health 
